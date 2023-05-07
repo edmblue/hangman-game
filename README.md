@@ -30,29 +30,19 @@
 > Complete Menu App
 ## Built with:
 
-![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB") ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB") ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- **Frontend**: ReactJS, TailwindCSS, NextJS
-- **Server/Hosting**: Railway
-- **ORM**: Prisma
-- **Backend**: MySQL
+- **Frontend**: ReactJS, TailwindCSS, TypeScript
+- **Server/Hosting**: Netlify
 
 ## Features
 
-- Client
-  * See the Menu   
-  * Edit the Order
-  * Add Name
-  * See the total and subtotal
-- Admin 
-  * Review the orders in real time
-  * Mark as completed
-  * Orders organized by status  
+- A lot of fun!
+- Choose between Random or Custom Words
+- There's is a colorful surprise when you win the game!
 
 ### 📑 End note 
 
-You can enter the admin section by just adding **/admin** to the link
-
-This is my first "Fullstack" Web Application that I make fully on my own and I.COULDN'T.BE.HA.PPI.ER for real, is not the best I know the UI can be improved but I did try to make the UX the best as possible, it was so exciting to be able to use my application in web, mobile, see the backend working and being able to review the orders in the admin panel
+This was AMAZING, and harder that what I thought, using TypeScript is not easy as a beginner buuttt I love learning it, it helped me a lot to debug my code while writing it but it also gave me a few headache haha. I also try customizing my CSS with some cute colors, I'm really happy with the result
 
 <sub>**Additional**: no additional notes </sub>
